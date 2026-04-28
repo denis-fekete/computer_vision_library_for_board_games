@@ -166,5 +166,21 @@
   {
     "classId": 41,
     "linkId": "winchester"
+  },
+  {
+    "classId": 42,
+    "linkId": "card_bs"
+  },
+  {
+    "classId": 43,
+    "linkId": "character_bs"
+  },
+  {
+    "classId": 44,
+    "linkId": "role_bs"
+  },
+  {
+    "classId": 45,
+    "linkId": "health_symbol"
   }
 ]
